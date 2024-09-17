@@ -1,2 +1,2 @@
 microservice:
-    config-server-demo: welcome to config server
+    url: welcome to config server
