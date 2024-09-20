@@ -1,2 +1,3 @@
 microservice:
     url: https://talent.capgemini.com/in/
+rest.url : http://localhost:8887/welcome
