@@ -1,2 +1,2 @@
 microservice:
-    url: http://localhost:8887/welcome
+    url: welcome to config server 
